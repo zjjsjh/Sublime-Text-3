@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"MarkdownEditing",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeREPL",
+		"SublimeTmpl"
+	]
+}
